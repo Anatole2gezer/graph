@@ -80,6 +80,11 @@
     ],
     "links": [
       {"source": "Napoleon", "target": "Myriel", "value": 1},
-      {"source": "Napoleon", "target": "Mlle.Baptistine", "value": 1}
+      {"source": "Napoleon", "target": "Brujon", "value": 1},
+      {"source": "Napoleon", "target": "Child2", "value": 1},
+      {"source": "Napoleon", "target": "Toussaint", "value": 1},
+      {"source": "Napoleon", "target": "Claquesous", "value": 1},
+      {"source": "Napoleon", "target": "Babet", "value": 1},
+      {"source": "Napoleon", "target": "Mlle.Baptistine", "value": 2}
     ]
   }
